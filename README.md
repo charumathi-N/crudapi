@@ -1,3 +1,20 @@
+Below I have attached the react CRUD task result
+
+![image](https://github.com/charumathi-N/crudapi/assets/62592988/ef94d6b0-1a77-4a2e-9291-d0dcc32e697f)
+ **fig.1:Home page**
+
+ ![image](https://github.com/charumathi-N/crudapi/assets/62592988/fec2df93-6d6d-4777-b246-c7f2ecbf56c1)
+ **fig.2:Createuser page**
+
+ ![image](https://github.com/charumathi-N/crudapi/assets/62592988/e73e95a7-ce09-4584-8080-c06a74f26822)
+ **fig.2:About page**
+ 
+>In home tab, you can view,edit and update the user detail,
+>
+>In Createuser tab, you create new user.
+>
+>In About, you can read about crud operation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
